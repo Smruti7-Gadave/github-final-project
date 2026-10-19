@@ -25,3 +25,6 @@ Simple Interest = (Principal × Rate × Time) / 100
 Run the `simple-interest.sh` Bash script and enter the principal amount, annual rate of interest, and time period when prompted.
 
 © 2022 XYZ, Inc.
+
+## Example
+For a principal of 1000, an annual rate of 5%, and 2 years, the simple interest is 100.
